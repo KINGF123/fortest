@@ -3,7 +3,7 @@
         <h3>自定义 {{name}}</h3>
         <button @click="change">按钮</button>
         <div class="father">
-            <div class="son"></div>
+            <div class="son">文字</div>
         </div>
     </div>
 </template>
